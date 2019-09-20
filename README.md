@@ -20,3 +20,8 @@ Time period of analysis : January 1, 2017 - December 31, 2017
 
 ## Tableau Dashboard
 ![Dashboard](https://github.com/Sonull/Gun-violence/blob/master/gun_violence_combined_dashboard.png)
+* Since the likelihood of a gun violence incident to happen on a weekend is higher, there should be more security in public places
+* Similarly, on holidays, people should be physically examined for presence of guns when they enter an area accessible to the public
+* Basic First-Aid should be taught to the general public, given shootings lead to more injuries than deaths
+* Government could invest in training civilians on how to escape from a public place in case of any such threat
+
