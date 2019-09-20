@@ -2,6 +2,9 @@
 Time period of analysis : January 1, 2017 - December 31, 2017
 ## HeatMap on number of incidents
 ![Gun violence across the US (visualized by state)](https://github.com/Sonull/Gun-violence/blob/master/gun_violence_map.png)
+* Illinois had the highest number of Gun Related Violence followed by California and Florida
+* Hawaii had the lowest number of such incidents
+* There were 75 times more incidents in Illinois than in Hawaii
 
 ## Visualization by state (scatter plot)
 ![scatter plot by state](https://github.com/Sonull/Gun-violence/blob/master/gun_violence_incidents.png)
