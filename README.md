@@ -15,6 +15,7 @@ Time period of analysis : January 1, 2017 - December 31, 2017
 
 ## Distribution by weekdays
 ![distribution by weekdays](https://github.com/Sonull/Gun-violence/blob/master/gun_violence_by_week.png)
+* The most recent shooting in the US, the 2019 Dayton shooting, was also on a Sunday!
 
 ## Distribution by seasons
 ![seasonal distribution](https://github.com/Sonull/Gun-violence/blob/master/gun_violence_seasonal.png)
