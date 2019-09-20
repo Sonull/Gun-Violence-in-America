@@ -1,6 +1,6 @@
-# VISUALIZATION OF GUN VIOLENCE INCIDENTS IN THE US (2017)
+# VISUALIZATION OF GUN VIOLENCE INCIDENTS IN THE US
 
-## Gun violence across the US in 2017 visualized by state
+## HeatMap on number of incidents
 ![Gun violence across the US (visualized by state)](https://github.com/Sonull/Gun-violence/blob/master/gun_violence_map.png)
 
 ## Visualization by state (scatter plot)
