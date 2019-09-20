@@ -1,5 +1,5 @@
 # VISUALIZATION OF GUN VIOLENCE INCIDENTS IN THE US
-
+Time period of analysis : January 1, 2017 - December 31, 2017
 ## HeatMap on number of incidents
 ![Gun violence across the US (visualized by state)](https://github.com/Sonull/Gun-violence/blob/master/gun_violence_map.png)
 
