@@ -11,10 +11,10 @@ Time period of analysis : January 1, 2017 - December 31, 2017
 
 ## Distribution by important dates
 ![Distribution by date](https://github.com/Sonull/Gun-violence/blob/master/gun_violence_by_date.png)
+* Maximum number of incidents happened on January 1, 2017 followed by July 4, 2017 : both days being two of the most celebrated public holidays in the US
 
 ## Distribution by weekdays
 ![distribution by weekdays](https://github.com/Sonull/Gun-violence/blob/master/gun_violence_by_week.png)
-* Maximum number of incidents happened on January 1, 2017 followed by July 4, 2017 : both days being two of the most celebrated public holidays in the US
 
 ## Distribution by seasons
 ![seasonal distribution](https://github.com/Sonull/Gun-violence/blob/master/gun_violence_seasonal.png)
